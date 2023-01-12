@@ -118,10 +118,13 @@ function endModule() {
         <li><button id='toggleWireframeCSS' onclick='toggleWireframe()'>Toggle Wireframe CSS</button></li>
        </ul>
     </div>
-
+</main>
 
 ENDOUTPUT;
   echo $html;
 }
 
 ?>
+</body>
+
+</html>

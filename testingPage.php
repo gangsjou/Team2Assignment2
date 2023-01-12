@@ -8,7 +8,7 @@
 <?php
    navModule();
 ?>
-
+</main>
 <?php
    endModule();
 ?>
