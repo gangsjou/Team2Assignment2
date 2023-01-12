@@ -10,8 +10,6 @@
    navModule();
 ?>
 
-
-
       <div class=" top-space-header">
         <h5>Meet the DualCab team</h5>
       </div> 
@@ -28,10 +26,6 @@
           </li>
         </ul>
       </div>
-
-
-
-
 
       <div class="myheader light-bg-panel">
         <h3>Meet the Dualcab Team</h3>
@@ -74,6 +68,9 @@
 </body>
 
 
+<?php
+   endModule();
+?>
 
 </body>
 </html>
