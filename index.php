@@ -2,7 +2,7 @@
 
 <?php
    include_once("tools.php");
-   topModule('Testing Page');
+   topModule('Dualcab Home');
    session_start();
 ?>
 
